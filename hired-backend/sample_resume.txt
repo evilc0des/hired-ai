@@ -1,0 +1,36 @@
+John Doe
+Email: john.doe@email.com
+Phone: (555) 123-4567
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5+ years of expertise in full-stack development, cloud architecture, and agile methodologies.
+
+SKILLS
+- JavaScript/TypeScript
+- Node.js
+- React
+- AWS
+- Docker
+- Python
+- SQL
+
+WORK EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc.
+January 2021 - Present
+Led development of microservices architecture, improving system scalability by 200%. Mentored junior developers and implemented CI/CD pipelines.
+
+Software Engineer | StartupXYZ
+March 2018 - December 2020
+Developed and maintained customer-facing applications using React and Node.js. Implemented automated testing, achieving 90% code coverage.
+
+EDUCATION
+
+University of California, Berkeley
+Bachelor of Science in Computer Science
+2018
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- MongoDB Certified Developer 
